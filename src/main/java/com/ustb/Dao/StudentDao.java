@@ -1,10 +1,10 @@
 package com.ustb.Dao; 
 /** 
-* @author 匡东洋 E-mail:473948143@qq.com 
-* @version 创建时间：2017年7月20日 下午4:06:15 
-* 类说明 
+* @author 锟斤东锟斤拷 E-mail:473948143@qq.com 
+* @version 锟斤拷锟斤拷时锟戒：2017锟斤拷7锟斤拷20锟斤拷 锟斤拷锟斤拷4:06:15 
+* 锟斤拷说锟斤拷 
 */
 public class StudentDao {
-
+int a;
 }
  
